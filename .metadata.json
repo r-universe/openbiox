@@ -1,0 +1,10 @@
+[
+  {
+    "package": "contribution",
+    "oncran": true
+  },
+  {
+    "package": "UCSCXenaShiny",
+    "oncran": true
+  }
+]

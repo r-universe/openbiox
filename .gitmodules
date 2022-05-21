@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "contribution"]
+	path = contribution
+	url = https://github.com/openbiox/contribution
+	shallow = true
+	registered = true
+[submodule "UCSCXenaShiny"]
+	path = UCSCXenaShiny
+	url = https://github.com/openbiox/ucscxenashiny
+	shallow = true
+	registered = true
